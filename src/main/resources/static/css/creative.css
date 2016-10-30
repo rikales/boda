@@ -222,6 +222,11 @@ section.pedrafita {
   background-image: url('../img/pedrafita.jpg');
   padding: 250px 0;
 }
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
 
 .service-box {
   max-width: 400px;
