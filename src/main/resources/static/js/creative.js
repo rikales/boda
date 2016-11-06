@@ -44,6 +44,29 @@
         scale: 0.3,
         distance: '0px'
     }, 300);
+    sr.reveal('.sr-mapa', {
+    	delay: 500,
+        duration: 800,
+        scale: 0.3,
+        distance: '0px'
+    }, 300);
+    sr.reveal('.sr-foto', {
+    	delay: 300,
+        duration: 600,
+        scale: 0.3,
+        distance: '0px'
+    }, 300);
+    sr.reveal('.sr-spotify', {
+        duration: 1000,
+        delay: 200
+    });
+    sr.reveal('.sr-instagram', {
+    	delay: 300,
+        duration: 600,
+        scale: 0.3,
+        distance: '0px'
+    }, 300);
+    
 
     // Initialize and Configure Magnific Popup Lightbox Plugin
     $('.popup-gallery').magnificPopup({
