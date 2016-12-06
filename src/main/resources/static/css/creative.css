@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/main2.jpg');
+  background-image: url('../img/mainPic2.png');
   text-align: center;
   color: white;
 }
@@ -219,7 +219,7 @@ section.pedrafita {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/pedrafita.jpg');
+  background-image: url('../img/pedrafita.JPG');
   padding: 250px 0;
 }
 .vcenter {
